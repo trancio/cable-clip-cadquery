@@ -2,6 +2,9 @@
 
 Attaching cable(s) to a wall or furniture. The number and diameter of the cables can be freely changed.
 
+![](custom.svg)
+
+
 *Terminology of clip types:*
 - Small: The mounting bolt does not fit under cable. More precisely: 0.9 * (cable_diameter) < bolt_head_diameter
 - Big: Not Small
