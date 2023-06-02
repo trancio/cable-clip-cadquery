@@ -2,7 +2,7 @@
 
 Attaching cable(s) to a wall or furniture. The number and diameter of the cables can be freely changed.
 
-![](custom.svg)
+![](custom.png)
 
 
 *Terminology of clip types:*
